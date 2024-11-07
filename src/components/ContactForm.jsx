@@ -109,12 +109,6 @@ const ContactForm = () => {
               </p>
             </div>
 
-            {/* <div className=" absolute right-4">
-              <img
-                src="./logo.png"
-                className="text-white max-[100px]:lg:w-80 md:w-48 sm"
-              />
-            </div> */}
             <div className="absolute right-4">
               <img
                 src="./logo.png"
